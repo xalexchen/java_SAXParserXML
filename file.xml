@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+	<staff>
+		<firstname>chen</firstname>
+		<lastname>alex</lastname>
+		<nickname>miracle</nickname>
+		<salary>100000</salary>
+	</staff>
+	<staff>
+		<firstname>li</firstname>
+		<lastname>lian jie</lastname>
+		<nickname>lili</nickname>
+		<salary>200000</salary>
+	</staff>
+</company>
